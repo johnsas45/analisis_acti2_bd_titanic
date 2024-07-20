@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    font-family: ari, sans-serif;
+    align-items: center;
+    text-align: center;
+    background-color: lightsteelblue;
+    color: black;
+}
+h1{
+    text-align: center;
+    background-color: lightcoral;
+    color: black;
+}
+h2{
+    text-align: center;
+    background-color: lightpink;
+    color: black;
+}
+.center{
+    display: inline-block;
+}
